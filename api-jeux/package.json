@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "etape-7-s2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch serveur.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcrl/Etape-7-S2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tomcrl/Etape-7-S2/issues"
+  },
+  "homepage": "https://github.com/tomcrl/Etape-7-S2#readme"
+}
